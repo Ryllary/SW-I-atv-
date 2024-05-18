@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\exe07\exe07\bin\Debug\net6.0\exe07.exe
+C:\Users\LAB4\Downloads\exe07\exe07\bin\Debug\net6.0\exe07.deps.json
+C:\Users\LAB4\Downloads\exe07\exe07\bin\Debug\net6.0\exe07.runtimeconfig.json
+C:\Users\LAB4\Downloads\exe07\exe07\bin\Debug\net6.0\exe07.dll
+C:\Users\LAB4\Downloads\exe07\exe07\bin\Debug\net6.0\exe07.pdb
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.dll
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\refint\exe07.dll
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.pdb
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\exe07.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\exe07\exe07\obj\Debug\net6.0\ref\exe07.dll
