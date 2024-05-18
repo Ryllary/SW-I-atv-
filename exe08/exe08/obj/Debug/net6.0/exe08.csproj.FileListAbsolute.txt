@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\exe08\exe08\bin\Debug\net6.0\exe08.exe
+C:\Users\LAB4\Downloads\exe08\exe08\bin\Debug\net6.0\exe08.deps.json
+C:\Users\LAB4\Downloads\exe08\exe08\bin\Debug\net6.0\exe08.runtimeconfig.json
+C:\Users\LAB4\Downloads\exe08\exe08\bin\Debug\net6.0\exe08.dll
+C:\Users\LAB4\Downloads\exe08\exe08\bin\Debug\net6.0\exe08.pdb
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.dll
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\refint\exe08.dll
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.pdb
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\exe08.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\exe08\exe08\obj\Debug\net6.0\ref\exe08.dll
